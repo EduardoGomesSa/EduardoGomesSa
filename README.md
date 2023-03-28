@@ -21,8 +21,8 @@ Tenho 21 anos, gosto de aprender coisas novas, assistir animes e ler bons livros
 
 ##
 <div>
-  <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGomesSa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
-  <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGomesSa&layout=compact&theme=tokyonight"/>
+  <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGomesSa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+  <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGomesSa&layout=compact&theme=dark"/>
 </div>
 
 ##

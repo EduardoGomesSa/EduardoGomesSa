@@ -13,7 +13,7 @@ Tenho 21 anos, gosto de aprender coisas novas, assistir animes e ler bons livros
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/6221702/typescript.png" alt="csharp" width="40" height="40"/> 
+    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/6221702/typescript.png" alt="csharp" width="37" height="37"/> 
   </a>
  
 </p>

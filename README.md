@@ -7,8 +7,7 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <img src="_imgs\flutter_logo.png">
   
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://assets.website-files.com/60b9fdcaf8c317a1cfdb2bd9/60d5df8f4056e2e783814cfd_PHP-1.png" alt="csharp" width="40" height="40"/> 

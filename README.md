@@ -7,16 +7,11 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <img src="https://logospng.org/download/laravel/logo-laravel-1024.png" alt="Laravel" width="80" height="80"/>
+  <img src="https://th.bing.com/th/id/OIP.3C5M-mqWlwWKlpl6MuQAPgHaFZ?rs=1&pid=ImgDetMain" alt="Flutter" width="80" height="80"/>
+  <img src="https://th.bing.com/th/id/OIP.JVt34lGxmm0GAGNNL_mwBgHaHa?rs=1&pid=ImgDetMain" alt="MySQL" width="80" height="80"/>
+  <img src="https://th.bing.com/th/id/OIP.i8m_OsrOH2KKwZj1SQGteAHaEH?rs=1&pid=ImgDetMain" alt="Net Core" width="80" height="80"/>
   
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets.website-files.com/60b9fdcaf8c317a1cfdb2bd9/60d5df8f4056e2e783814cfd_PHP-1.png" alt="csharp" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/49854/images/6221702/typescript.png" alt="csharp" width="37" height="37"/> 
-  </a>
  
 </p>
   

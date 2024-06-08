@@ -10,7 +10,6 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
   <img src="https://logospng.org/download/laravel/logo-laravel-1024.png" alt="Laravel" width="80" height="80"/>
   <img src="https://th.bing.com/th/id/OIP.3C5M-mqWlwWKlpl6MuQAPgHaFZ?rs=1&pid=ImgDetMain" alt="Flutter" width="80" height="80"/>
   <img src="https://th.bing.com/th/id/OIP.JVt34lGxmm0GAGNNL_mwBgHaHa?rs=1&pid=ImgDetMain" alt="MySQL" width="80" height="80"/>
-  <img src="https://www.vhv.rs/dpng/d/542-5425575_postgres-logo-png-transparent-png.png" alt="MySQL" width="80" height="80"/>
   <img src="https://th.bing.com/th/id/OIP.i8m_OsrOH2KKwZj1SQGteAHaEH?rs=1&pid=ImgDetMain" alt="Net Core" width="80" height="80"/>
   
  

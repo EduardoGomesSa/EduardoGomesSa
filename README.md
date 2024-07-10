@@ -14,8 +14,11 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
   
  
 </p>
-  
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=EduardoGomesSa&color=79b8ff)
+  
 ##
 <div>
   <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGomesSa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
@@ -23,6 +26,3 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
 </div>
 
 ##
-<br />
-
-![](https://komarev.com/ghpvc/?username=EduardoGomesSa&color=79b8ff)

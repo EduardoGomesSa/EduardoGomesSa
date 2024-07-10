@@ -23,5 +23,6 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
 </div>
 
 ##
+<br />
 
-
+![](https://komarev.com/ghpvc/?username=EduardoGomesSa&color=79b8ff)

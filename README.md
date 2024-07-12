@@ -9,6 +9,8 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
 <p align="left"> 
   
  ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat-square&logo=Laravel&logoColor=white&labelColor=%23FF6347&color=%23FF6347)
+ ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=white&labelColor=%23007BFF&color=%23007BFF)
+
 </p>
 
 <br />

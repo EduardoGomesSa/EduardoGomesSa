@@ -6,14 +6,14 @@ Gosto de estudar e aplicar conhecimentos sobre arquitetura de software e boas pr
 Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutter e APIs com Laravel, mas sempre disposto a ver novos horizontes...
 
 ## Tecnologias:
-<p> 
+<div align="center"> 
   
  ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat-square&logo=Laravel&logoColor=white&labelColor=%23FF6347&color=%23FF6347)
  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=white&labelColor=%23007BFF&color=%23007BFF)
  ![NetCore](https://img.shields.io/badge/Core-purple?style=flat&logo=.Net&logoColor=white&labelColor=%238B008B&color=%238B008B)
  ![MySQL](https://img.shields.io/badge/MySQL-cian?style=flat&logo=MySQL&logoColor=white&labelColor=%23007BFF&color=%23007BFF)
  ![Static Badge](https://img.shields.io/badge/PostgreSQL-cian?style=flat&logo=postgresql&logoColor=white&labelColor=%231976D2&color=%231976D2)
-</p>
+</div>
 
 ## Estatísticas:
 

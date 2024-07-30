@@ -13,6 +13,8 @@ Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutte
  ![NetCore](https://img.shields.io/badge/Core-purple?style=flat&logo=.Net&logoColor=white&labelColor=%238B008B&color=%238B008B)
  ![MySQL](https://img.shields.io/badge/MySQL-cian?style=flat&logo=MySQL&logoColor=white&labelColor=%23007BFF&color=%23007BFF)
  ![Static Badge](https://img.shields.io/badge/PostgreSQL-cian?style=flat&logo=postgresql&logoColor=white&labelColor=%231976D2&color=%231976D2)
+ ![Static Badge](https://img.shields.io/badge/Docker-blue?style=flat)
+
 </div>
 
 ## Estatísticas:

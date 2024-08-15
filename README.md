@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim:
 Tenho 22 anos, gosto de aprender coisas novas, assistir animes e ler bons livros.
-Gosto de estudar e aplicar conhecimentos sobre arquitetura de software e boas práticas. 
+Gosto de estudar e aplicar conhecimentos sobre arquitetura de software e boas práticas em programação. 
 Atualmente estou voltado para o desenvolvimento de aplicativos mobile com Flutter, APIs com Laravel e me aprodundando no Docker, mas sempre disposto a ver novos horizontes...
 
 ## Tecnologias:

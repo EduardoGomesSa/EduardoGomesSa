@@ -1,7 +1,7 @@
 # Olá! Quem sou eu?
 
 ## Um pouco sobre mim:
-- 🤓 Meu nome é `Eduardo` e tenho 22 anos.
+- 🤓 Meu nome é Eduardo e tenho 22 anos.
 - 🎓 Sou Técnico em Informática pelo IFMA e bacharel em Sistemas de Informação pela UB.
 - 🤯 Possuo experiência com desenvolvimento em .Net Core, Laravel, Flutter, React e banco de dados PostgreSQL e MySQL.
 - 🧪 Também tenho experiência com testes unitários.

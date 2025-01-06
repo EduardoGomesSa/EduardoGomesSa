@@ -1,7 +1,7 @@
 # Olá! Quem sou eu?
 
 ## Sobre mim:
-- 🤓 Meu nome é Eduardo e tenho 22 anos.
+- 🤓 Meu nome é Eduardo e tenho 23 anos.
 - 💻 Atualmente atuo como desenvolvedor fullstack jr, no qual possuo mais de um anos de experiência.
 - 🎓 Sou Técnico em Informática pelo IFMA e Bacharel em Sistemas de Informação pela UB.
 - 🤯 Possuo experiência com desenvolvimento em .Net Core, Laravel, Flutter, React e banco de dados PostgreSQL e MySQL.

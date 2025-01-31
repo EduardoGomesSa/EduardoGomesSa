@@ -18,6 +18,8 @@
  ![MySQL](https://img.shields.io/badge/MySQL-cian?style=flat&logo=MySQL&logoColor=white&labelColor=%23007BFF&color=%23007BFF)
  ![Static Badge](https://img.shields.io/badge/PostgreSQL-cian?style=flat&logo=postgresql&logoColor=white&labelColor=%231976D2&color=%231976D2)
  ![Static Badge](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker)
+ ![Static Badge](https://img.shields.io/badge/React-red%3Fstyle%3Dflat%26logo%3DMySQL%26logoColor%3Dwhite%26labelColor%3D%2523007BFF%26color%3D%2523007BFF?style=flat&logo=react&logoColor=black&color=%2361DAFB)
+
 
 </div>
 

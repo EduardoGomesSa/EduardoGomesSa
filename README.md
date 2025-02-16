@@ -20,6 +20,7 @@
  ![Static Badge](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker)
  ![Static Badge](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&color=%2361DAFB)
  ![Static Badge](https://img.shields.io/badge/Node.js-%236E57E0?logo=node.js&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white)
 
 
 </div>

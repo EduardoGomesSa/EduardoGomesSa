@@ -6,7 +6,7 @@
 - 🎓 Sou Técnico em Informática pelo IFMA e Bacharel em Sistemas de Informação pela UniBalsas.
 - 🤯 Possuo experiência com desenvolvimento em .Net Core, Laravel, Flutter, React, NodeJS e banco de dados PostgreSQL e MySQL.
 - 🧪 Também tenho experiência em testes unitários com xUnit em .Net Core e estou estudando o Pest no Laravel.
-- 📚 No momento, estou focado em aprimorar meus conhecimentos em Laravel, Flutter, Docker, React, Node, Tailwind, Design patterns e arquitetura e engenharia de software.
+- 📚 No momento, estou focado em aprimorar meus conhecimentos em Laravel, Flutter, Docker, React, React Native, Node, Tailwind, Design patterns e arquitetura e engenharia de software.
 - ☕ E por fim, gosto bastante de café.
 
 ## Tecnologias:

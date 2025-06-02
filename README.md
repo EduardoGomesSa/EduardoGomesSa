@@ -1,6 +1,6 @@
 # Olá! Quem sou eu?
 
-## Sobre mim:
+## 👨‍💻 Sobre mim:
 - 🤓 Meu nome é Eduardo e tenho 23 anos.
 - 💻 Atualmente atuo como desenvolvedor fullstack jr na organização Vokere, na qual estou há mais de dez meses, utilizando principalmente Flutter, Laravel, React e MySQL. Anteriormente trabalhei como backend em um projeto bancário baseado em microsservices.
 - 🎓 Sou Técnico em Informática pelo IFMA e Bacharel em Sistemas de Informação pela UniBalsas.
@@ -9,7 +9,7 @@
 - 📚 No momento, estou focado em aprimorar meus conhecimentos em Laravel, Flutter, Docker, React, React Native, Node, Tailwind, design patterns e arquitetura e engenharia de software.
 - ☕ E por fim, gosto bastante de café.
 
-## Tecnologias:
+## 💻 Tecnologias:
 <div align="center"> 
   
  ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat-square&logo=Laravel&logoColor=white&labelColor=%23FF6347&color=%23FF6347)
@@ -26,12 +26,17 @@
 
 </div>
 
-## Estatísticas:
+## 📑 Estatísticas:
 
 <div align="center">
   <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoGomesSa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
   <img height="140cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGomesSa&layout=compact&theme=dark"/>
 </div>
+
+## 📧 E-mail para contato:
+```bash
+  eduardogomes.dev@gmail.com
+```
 
 ##
 <div align="right">

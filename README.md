@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Sobre mim:
 - 🤓 Meu nome é Eduardo e tenho 23 anos.
-- 💻 Atualmente atuo como desenvolvedor fullstack jr na organização Vokere, na qual estou há mais de dez meses, utilizando principalmente Flutter, Laravel, React e MySQL. Anteriormente trabalhei como backend em um projeto bancário baseado em microsservices.
-- 🎓 Sou Técnico em Informática pelo IFMA, Bacharel em Sistemas de Informação pela UniBalsas e atualmente estou fazendo pós em Data Science pela Descomplica. 
+- 💻 Atualmente atuo como desenvolvedor fullstack jr na organização Vokere, na qual estou há um ano, utilizando principalmente Flutter, Laravel, React e MySQL. Anteriormente trabalhei como backend em um projeto bancário baseado em microsservices.
+- 🎓 Sou Técnico em Informática pelo IFMA, Bacharel em Sistemas de Informação pela UniBalsas e atualmente estou fazendo pós-graduação em Data Science pela Descomplica. 
 - 🤯 Possuo experiência com desenvolvimento em .Net Core, Laravel, Flutter, React, NodeJS e banco de dados PostgreSQL e MySQL.
 - 🧪 Também tenho experiência em testes unitários com xUnit em .Net Core e estou estudando o Pest no Laravel.
 - 📚 No momento, estou focado em aprimorar meus conhecimentos em Laravel, Flutter, Docker, React, React Native, Node, Tailwind, design patterns e arquitetura e engenharia de software.

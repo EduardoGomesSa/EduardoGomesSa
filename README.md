@@ -9,7 +9,7 @@
 - 📚 No momento, estou focado em aprimorar meus conhecimentos em Laravel, Flutter, Docker, React, React Native, Node, Tailwind, design patterns e arquitetura e engenharia de software.
 - ☕ E por fim, gosto bastante de café.
 
-## 💻 Tecnologias:
+## 💻 Tecnologias estudadas:
 <div align="center"> 
   
  ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat-square&logo=Laravel&logoColor=white&labelColor=%23FF6347&color=%23FF6347)
